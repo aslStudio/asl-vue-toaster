@@ -1,7 +1,7 @@
 {
   "name": "asl-vue-toaster",
   "version": "0.1.0",
-  "description": "Small Vue toast service inspired by ui-kit-2",
+  "description": "Small Vue toast service",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aslStudio/asl-vue-toaster.git"
