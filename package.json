@@ -2,8 +2,16 @@
   "name": "asl-vue-toaster",
   "version": "0.1.0",
   "description": "Small Vue toast service inspired by ui-kit-2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aslStudio/asl-vue-toaster.git"
+  },
+  "homepage": "https://github.com/aslStudio/asl-vue-toaster#readme",
+  "bugs": {
+    "url": "https://github.com/aslStudio/asl-vue-toaster/issues"
+  },
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "asl",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
